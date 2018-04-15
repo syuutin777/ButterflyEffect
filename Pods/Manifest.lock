@@ -1,0 +1,24 @@
+PODS:
+  - IGListKit (3.2.0):
+    - IGListKit/Default (= 3.2.0)
+  - IGListKit/Default (3.2.0):
+    - IGListKit/Diffing
+  - IGListKit/Diffing (3.2.0)
+  - XLPagerTabStrip (8.0.1)
+
+DEPENDENCIES:
+  - IGListKit (~> 3.0)
+  - XLPagerTabStrip (~> 8.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - IGListKit
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  IGListKit: ffe6f98a728ab0250aceea22e7957aa5477c5048
+  XLPagerTabStrip: c908b17cbf42fcd2598ee1adfc49bae25444d88a
+
+PODFILE CHECKSUM: 623e3e13ab2f47c26eab484d9d2507d8bf903d72
+
+COCOAPODS: 1.5.0

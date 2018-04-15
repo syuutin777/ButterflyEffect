@@ -1,0 +1,6 @@
+framework module Pods_ButterflyEffectTests {
+  umbrella header "Pods-ButterflyEffectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
